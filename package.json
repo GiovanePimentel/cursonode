@@ -1,0 +1,26 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Curso de aprofundamento em node.js",
+  "main": "olamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovanePimentel/cursonode.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Giovane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovanePimentel/cursonode/issues"
+  },
+  "homepage": "https://github.com/GiovanePimentel/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
